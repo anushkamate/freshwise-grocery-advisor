@@ -1,8 +1,8 @@
-numpy
+streamlit
 pandas
-matplotlib
-seaborn
+numpy
 scikit-learn
 joblib
-streamlit
-jupyter
+matplotlib
+seaborn
+openpyxl
